@@ -1,0 +1,125 @@
+Array
+(
+    [student_id] => 1
+    [course_session_id] => 3
+    [teacher_id] => 5
+    [rating] => 4
+    [feedback] => شرح ممتاز
+)
+Array
+(
+    [student_id] => 123
+    [invoice_id] => 456
+    [amount] => 100.5
+    [session_id] => 789
+)
+Array
+(
+    [student_id] => 123
+    [invoice_id] => 456
+    [amount] => 100.5
+    [session_id] => 789
+)
+Array
+(
+    [student_id] => 123
+    [invoice_id] => 456
+    [amount] => 100.5
+    [session_id] => 789
+)
+Array
+(
+    [student_id] => 5
+    [invoice_id] => 10
+    [amount] => 100
+    [session_id] => 3
+    [payment_date] => 2025-04-10 12:00:00
+)
+Array
+(
+    [student_id] => 5
+    [invoice_id] => 10
+    [amount] => 100
+    [session_id] => 3
+    [payment_date] => 2025-04-10 12:00:00
+)
+Array
+(
+    [student_id] => 5
+    [invoice_id] => 10
+    [amount] => 100
+    [session_id] => 3
+    [payment_date] => 2025-04-10 12:00:00
+)
+2025-04-10 01:06:21 - Array
+(
+    [student_id] => 5
+    [invoice_id] => 10
+    [amount] => 100
+    [session_id] => 3
+    [payment_date] => 2025-04-10 12:00:00
+)
+
+2025-04-10 01:08:30 - Array
+(
+    [student_id] => 5
+    [invoice_id] => 10
+    [amount] => 100
+    [session_id] => 3
+    [payment_date] => 2025-04-10 12:00:00
+)
+
+2025-04-10 01:08:35 - Array
+(
+    [student_id] => 5
+    [invoice_id] => 10
+    [amount] => 100
+    [session_id] => 3
+    [payment_date] => 2025-04-10 12:00:00
+)
+
+2025-04-10 01:08:45 - Array
+(
+    [student_id] => 5
+    [invoice_id] => 10
+    [amount] => 100
+    [session_id] => 3
+    [payment_date] => 2025-04-10 12:00:00
+)
+
+2025-04-10 01:08:55 - Array
+(
+    [student_id] => 5
+    [invoice_id] => 10
+    [amount] => 100
+    [session_id] => 3
+    [payment_date] => 2025-04-10 12:00:00
+)
+
+2025-04-10 01:09:07 - Array
+(
+    [student_id] => 5
+    [invoice_id] => 10
+    [amount] => 100
+    [session_id] => 3
+    [payment_date] => 2025-04-10 12:00:00
+)
+
+2025-04-10 01:09:12 - Array
+(
+    [student_id] => 5
+    [invoice_id] => 10
+    [amount] => 100
+    [session_id] => 3
+    [payment_date] => 2025-04-10 12:00:00
+)
+
+2025-04-10 01:09:17 - Array
+(
+    [student_id] => 5
+    [invoice_id] => 10
+    [amount] => 100
+    [session_id] => 3
+    [payment_date] => 2025-04-10 12:00:00
+)
+

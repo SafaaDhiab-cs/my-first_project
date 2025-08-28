@@ -1,0 +1,294 @@
+
+2025-04-11 22:58:28 - بدء عملية جديدة
+2025-04-11 22:58:28 - بيانات الإدخال: {"student_id":4,"invoice_id":2,"amount":8000,"total_amount":900,"session_id":5,"payment_date":"2025-04-11 14:00:00"}
+
+2025-04-11 22:59:12 - بدء عملية جديدة
+2025-04-11 22:59:12 - بيانات الإدخال: {"student_id":4,"invoice_id":6591260437,"amount":17000,"total_amount":20000,"session_id":5,"payment_date":"2025-04-11T23:59:11.970673"}
+
+2025-04-11 23:03:53 - بدء عملية جديدة
+2025-04-11 23:03:53 - بيانات الإدخال: {"student_id":4,"invoice_id":2,"amount":8000,"total_amount":900,"session_id":5,"payment_date":"2025-04-11 14:00:00"}
+2025-04-11 23:03:53 - بدء المعاملة
+2025-04-11 23:03:53 - خطأ: الفاتورة غير موجودة أو لا تنتمي لهذا الطالب
+2025-04-11 23:03:53 - الرد النهائي: {"status":"error","message":"\u0627\u0644\u0641\u0627\u062a\u0648\u0631\u0629 \u063a\u064a\u0631 \u0645\u0648\u062c\u0648\u062f\u0629 \u0623\u0648 \u0644\u0627 \u062a\u0646\u062a\u0645\u064a \u0644\u0647\u0630\u0627 \u0627\u0644\u0637\u0627\u0644\u0628","error_code":404}
+
+2025-04-11 23:04:05 - بدء عملية جديدة
+2025-04-11 23:04:05 - بيانات الإدخال: {"student_id":4,"invoice_id":1,"amount":8000,"total_amount":900,"session_id":5,"payment_date":"2025-04-11 14:00:00"}
+2025-04-11 23:04:05 - بدء المعاملة
+2025-04-11 23:04:05 - تم تحديث الفاتورة
+2025-04-11 23:04:05 - خطأ في قاعدة البيانات: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'amount' in 'field list'
+2025-04-11 23:04:05 - خطأ: خطأ في قاعدة البيانات: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'amount' in 'field list'
+2025-04-11 23:04:05 - الرد النهائي: {"status":"error","message":"\u062e\u0637\u0623 \u0641\u064a \u0642\u0627\u0639\u062f\u0629 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'amount' in 'field list'","error_code":500}
+
+2025-04-11 23:04:51 - بدء عملية جديدة
+2025-04-11 23:04:51 - بيانات الإدخال: {"student_id":4,"invoice_id":6591260437,"amount":17000,"total_amount":20000,"session_id":5,"payment_date":"2025-04-12T00:04:51.455954"}
+2025-04-11 23:04:51 - بدء المعاملة
+2025-04-11 23:04:51 - خطأ: الفاتورة غير موجودة أو لا تنتمي لهذا الطالب
+2025-04-11 23:04:51 - الرد النهائي: {"status":"error","message":"\u0627\u0644\u0641\u0627\u062a\u0648\u0631\u0629 \u063a\u064a\u0631 \u0645\u0648\u062c\u0648\u062f\u0629 \u0623\u0648 \u0644\u0627 \u062a\u0646\u062a\u0645\u064a \u0644\u0647\u0630\u0627 \u0627\u0644\u0637\u0627\u0644\u0628","error_code":404}
+
+2025-04-11 23:06:00 - بدء عملية جديدة
+2025-04-11 23:06:00 - بيانات الإدخال: null
+2025-04-11 23:06:00 - خطأ: حقل student_id مطلوب
+2025-04-11 23:06:00 - الرد النهائي: {"status":"error","message":"\u062d\u0642\u0644 student_id \u0645\u0637\u0644\u0648\u0628","error_code":400}
+
+2025-04-11 23:06:14 - بدء عملية جديدة
+2025-04-11 23:06:14 - بيانات الإدخال: null
+2025-04-11 23:06:14 - خطأ: حقل student_id مطلوب
+2025-04-11 23:06:14 - الرد النهائي: {"status":"error","message":"\u062d\u0642\u0644 student_id \u0645\u0637\u0644\u0648\u0628","error_code":400}
+
+2025-04-11 23:06:23 - بدء عملية جديدة
+2025-04-11 23:06:23 - بيانات الإدخال: null
+2025-04-11 23:06:23 - خطأ: حقل student_id مطلوب
+2025-04-11 23:06:23 - الرد النهائي: {"status":"error","message":"\u062d\u0642\u0644 student_id \u0645\u0637\u0644\u0648\u0628","error_code":400}
+
+2025-04-11 23:08:54 - بدء عملية جديدة
+2025-04-11 23:08:54 - بيانات الإدخال: null
+2025-04-11 23:08:54 - خطأ: حقل student_id مطلوب
+2025-04-11 23:08:54 - الرد النهائي: {"status":"error","message":"\u062d\u0642\u0644 student_id \u0645\u0637\u0644\u0648\u0628","error_code":400}
+
+2025-04-11 23:09:13 - بدء عملية جديدة
+2025-04-11 23:09:13 - بيانات الإدخال: null
+2025-04-11 23:09:13 - خطأ: حقل student_id مطلوب
+2025-04-11 23:09:13 - الرد النهائي: {"status":"error","message":"\u062d\u0642\u0644 student_id \u0645\u0637\u0644\u0648\u0628","error_code":400}
+
+2025-04-11 23:27:05 - بدء عملية جديدة
+2025-04-11 23:27:05 - بيانات الإدخال الخام: 
+2025-04-11 23:27:05 - خطأ: بيانات JSON غير صالحة: Syntax error
+2025-04-11 23:27:05 - الرد النهائي: {"status":"error","message":"بيانات JSON غير صالحة: Syntax error","error_code":400,"timestamp":"2025-04-11 23:27:05"}
+
+2025-04-11 23:32:23 - بدء عملية جديدة
+2025-04-11 23:32:23 - بيانات الإدخال الخام: 
+2025-04-11 23:32:23 - خطأ: بيانات JSON غير صالحة: Syntax error
+2025-04-11 23:32:23 - الرد النهائي: {"status":"error","message":"بيانات JSON غير صالحة: Syntax error","error_code":400,"timestamp":"2025-04-11 23:32:23"}
+
+2025-04-12 07:22:41 - بدء عملية جديدة
+2025-04-12 07:22:41 - بيانات الإدخال الخام: 
+2025-04-12 07:22:41 - خطأ: بيانات JSON غير صالحة: Syntax error
+2025-04-12 07:22:41 - الرد النهائي: {"status":"error","message":"بيانات JSON غير صالحة: Syntax error","error_code":400,"timestamp":"2025-04-12 07:22:41"}
+
+2025-04-12 07:24:55 - بدء عملية جديدة
+2025-04-12 07:24:55 - بيانات الإدخال الخام: {"student_id":4,"invoice_id":6591260437,"amount":7000.0,"total_amount":10000.0,"payment_date":"2025-04-12 08:24:55","session_id":5}
+2025-04-12 07:24:55 - بدء المعاملة
+2025-04-12 07:24:55 - خطأ: الفاتورة غير موجودة أو لا تنتمي لهذا الطالب
+2025-04-12 07:24:55 - الرد النهائي: {"status":"error","message":"الفاتورة غير موجودة أو لا تنتمي لهذا الطالب","error_code":404,"timestamp":"2025-04-12 07:24:55"}
+
+2025-04-12 07:25:02 - بدء عملية جديدة
+2025-04-12 07:25:02 - بيانات الإدخال الخام: {"student_id":4,"invoice_id":6591260437,"amount":7000.0,"total_amount":10000.0,"payment_date":"2025-04-12 08:25:01","session_id":5}
+2025-04-12 07:25:02 - بدء المعاملة
+2025-04-12 07:25:02 - خطأ: الفاتورة غير موجودة أو لا تنتمي لهذا الطالب
+2025-04-12 07:25:02 - الرد النهائي: {"status":"error","message":"الفاتورة غير موجودة أو لا تنتمي لهذا الطالب","error_code":404,"timestamp":"2025-04-12 07:25:02"}
+
+2025-04-12 07:25:46 - بدء عملية جديدة
+2025-04-12 07:25:46 - بيانات الإدخال الخام: {"student_id":4,"invoice_id":6591260437,"amount":7000.0,"total_amount":10000.0,"payment_date":"2025-04-12 08:25:45","session_id":5}
+2025-04-12 07:25:46 - بدء المعاملة
+2025-04-12 07:25:46 - خطأ: الفاتورة غير موجودة أو لا تنتمي لهذا الطالب
+2025-04-12 07:25:46 - الرد النهائي: {"status":"error","message":"الفاتورة غير موجودة أو لا تنتمي لهذا الطالب","error_code":404,"timestamp":"2025-04-12 07:25:46"}
+
+2025-04-12 07:32:12 - بدء عملية جديدة
+2025-04-12 07:32:12 - بيانات الإدخال الخام: 
+2025-04-12 07:32:12 - خطأ: بيانات JSON غير صالحة: Syntax error
+2025-04-12 07:32:12 - الرد النهائي: {"status":"error","message":"بيانات JSON غير صالحة: Syntax error","error_code":400,"timestamp":"2025-04-12 07:32:12"}
+
+2025-04-12 07:33:03 - بدء عملية جديدة
+2025-04-12 07:33:03 - بيانات الإدخال الخام: {"student_id":4,"invoice_id":6591260437,"amount":7000.0,"total_amount":10000.0,"payment_date":"2025-04-12 08:33:02","session_id":5}
+2025-04-12 07:33:03 - بدء المعاملة
+2025-04-12 07:33:03 - خطأ: الفاتورة غير موجودة أو لا تنتمي لهذا الطالب
+2025-04-12 07:33:03 - الرد النهائي: {"status":"error","message":"الفاتورة غير موجودة أو لا تنتمي لهذا الطالب","error_code":404,"timestamp":"2025-04-12 07:33:03"}
+
+2025-04-12 07:37:17 - بدء عملية جديدة
+2025-04-12 07:37:17 - بيانات الإدخال الخام: 
+2025-04-12 07:37:17 - خطأ: بيانات JSON غير صالحة: Syntax error
+2025-04-12 07:37:17 - الرد النهائي: {"status":"error","message":"بيانات JSON غير صالحة: Syntax error","error_code":400,"timestamp":"2025-04-12 07:37:17"}
+
+2025-04-12 07:40:04 - بدء عملية جديدة
+2025-04-12 07:40:04 - بيانات الإدخال الخام: {
+    "student_id": 4,
+    "invoice_id": 1,
+    "amount": 100.50,
+    "payment_date": "2025-04-12 10:00:00"
+}
+2025-04-12 07:40:04 - بدء المعاملة
+2025-04-12 07:40:04 - تم تحديث الفاتورة
+2025-04-12 07:40:04 - خطأ في قاعدة البيانات: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'amount' in 'field list'
+2025-04-12 07:40:04 - خطأ: خطأ في قاعدة البيانات: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'amount' in 'field list'
+2025-04-12 07:40:04 - الرد النهائي: {"status":"error","message":"خطأ في قاعدة البيانات: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'amount' in 'field list'","error_code":500,"timestamp":"2025-04-12 07:40:04"}
+
+2025-04-12 07:45:23 - بدء عملية جديدة
+2025-04-12 07:45:23 - بيانات الإدخال الخام: {
+    "student_id": 4,
+    "invoice_id": 1,
+    "amount": 100.50,
+    "payment_date": "2025-04-12 10:00:00"
+}
+2025-04-12 07:45:23 - بدء المعاملة
+2025-04-12 07:45:23 - تم تحديث الفاتورة
+2025-04-12 07:45:23 - خطأ في قاعدة البيانات: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2025-04-12 07:45:23 - خطأ: خطأ في قاعدة البيانات: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2025-04-12 07:45:23 - الرد النهائي: {"status":"error","message":"خطأ في قاعدة البيانات: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens","error_code":500,"timestamp":"2025-04-12 07:45:23"}
+
+2025-04-12 07:48:21 - بدء عملية جديدة
+البيانات الخام المستلمة:
+{
+    "student_id": 4,
+    "invoice_id": 1,
+    "amount": 100.50,
+    "payment_date": "2025-04-12 10:00:00"
+}
+بدء المعاملة
+أعمدة جدول invoices: id, payment_sources_id, student_id, amount, status, invoice_number, invoice_details, due_date, paid_at, created_at, updated_at, course_session_id
+أعمدة جدول payments: id, student_id, session_id, invoice_id, status, payment_date, total_amount, created_at, updated_at
+أعمدة جدول course_session_students: id, student_id, course_session_id, register_at, status, created_at, updated_at
+تم تحديث الفاتورة
+خطأ في المعاملة: خطأ في قاعدة البيانات: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'amount' in 'field list'
+خطأ نهائي: خطأ في قاعدة البيانات: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'amount' in 'field list'
+الرد النهائي: {"status":"error","message":"خطأ في قاعدة البيانات: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'amount' in 'field list'","error_code":500,"timestamp":"2025-04-12 07:48:21"}
+
+2025-04-12 07:54:37 - بدء عملية جديدة
+البيانات الخام المستلمة:
+{"student_id":4,"invoice_id":6591260437,"amount":7000.0,"total_amount":10000.0,"payment_date":"2025-04-12 08:54:37","session_id":5}
+بدء المعاملة
+أعمدة جدول invoices: id, payment_sources_id, student_id, amount, status, invoice_number, invoice_details, due_date, paid_at, created_at, updated_at, course_session_id
+أعمدة جدول payments: id, student_id, session_id, invoice_id, status, payment_date, total_amount, created_at, updated_at
+أعمدة جدول course_session_students: id, student_id, course_session_id, register_at, status, created_at, updated_at
+خطأ نهائي: الفاتورة غير موجودة أو لا تنتمي لهذا الطالب
+الرد النهائي: {"status":"error","message":"الفاتورة غير موجودة أو لا تنتمي لهذا الطالب","error_code":404,"timestamp":"2025-04-12 07:54:37"}
+
+2025-04-12 07:56:39 - بدء عملية جديدة
+البيانات الخام المستلمة:
+{"student_id":4,"invoice_id":6591260437,"amount":7000.0,"total_amount":10000.0,"payment_date":"2025-04-12 08:56:38","session_id":5}
+بدء المعاملة
+أعمدة جدول invoices: id, payment_sources_id, student_id, amount, status, invoice_number, invoice_details, due_date, paid_at, created_at, updated_at, course_session_id
+أعمدة جدول payments: id, student_id, session_id, invoice_id, status, payment_date, total_amount, created_at, updated_at
+أعمدة جدول course_session_students: id, student_id, course_session_id, register_at, status, created_at, updated_at
+خطأ نهائي: الفاتورة غير موجودة أو لا تنتمي لهذا الطالب
+الرد النهائي: {"status":"error","message":"الفاتورة غير موجودة أو لا تنتمي لهذا الطالب","error_code":404,"timestamp":"2025-04-12 07:56:39"}
+
+2025-04-12 08:43:52 - بدء عملية جديدة
+البيانات الخام المستلمة:
+{"student_id":4,"invoice_id":6591260437,"amount":17000.0,"total_amount":20000.0,"payment_date":"2025-04-12 09:43:52","session_id":5}
+بدء المعاملة
+أعمدة جدول invoices: id, payment_sources_id, student_id, amount, status, invoice_number, invoice_details, due_date, paid_at, created_at, updated_at, course_session_id
+أعمدة جدول payments: id, student_id, session_id, invoice_id, status, payment_date, total_amount, created_at, updated_at
+أعمدة جدول course_session_students: id, student_id, course_session_id, register_at, status, created_at, updated_at
+خطأ نهائي: الفاتورة غير موجودة أو لا تنتمي لهذا الطالب
+الرد النهائي: {"status":"error","message":"الفاتورة غير موجودة أو لا تنتمي لهذا الطالب","error_code":404,"timestamp":"2025-04-12 08:43:52"}
+
+2025-04-12 08:44:00 - بدء عملية جديدة
+البيانات الخام المستلمة:
+{"student_id":4,"invoice_id":6591260437,"amount":17000.0,"total_amount":20000.0,"payment_date":"2025-04-12 09:43:59","session_id":5}
+بدء المعاملة
+أعمدة جدول invoices: id, payment_sources_id, student_id, amount, status, invoice_number, invoice_details, due_date, paid_at, created_at, updated_at, course_session_id
+أعمدة جدول payments: id, student_id, session_id, invoice_id, status, payment_date, total_amount, created_at, updated_at
+أعمدة جدول course_session_students: id, student_id, course_session_id, register_at, status, created_at, updated_at
+خطأ نهائي: الفاتورة غير موجودة أو لا تنتمي لهذا الطالب
+الرد النهائي: {"status":"error","message":"الفاتورة غير موجودة أو لا تنتمي لهذا الطالب","error_code":404,"timestamp":"2025-04-12 08:44:00"}
+
+2025-04-12 08:45:06 - بدء عملية جديدة
+البيانات الخام المستلمة:
+{"student_id":4,"invoice_id":6591260437,"amount":17000.0,"total_amount":20000.0,"payment_date":"2025-04-12 09:45:05","session_id":5}
+بدء المعاملة
+أعمدة جدول invoices: id, payment_sources_id, student_id, amount, status, invoice_number, invoice_details, due_date, paid_at, created_at, updated_at, course_session_id
+أعمدة جدول payments: id, student_id, session_id, invoice_id, status, payment_date, total_amount, created_at, updated_at
+أعمدة جدول course_session_students: id, student_id, course_session_id, register_at, status, created_at, updated_at
+خطأ نهائي: الفاتورة غير موجودة أو لا تنتمي لهذا الطالب
+الرد النهائي: {"status":"error","message":"الفاتورة غير موجودة أو لا تنتمي لهذا الطالب","error_code":404,"timestamp":"2025-04-12 08:45:06"}
+
+2025-04-12 08:45:43 - بدء عملية جديدة
+البيانات الخام المستلمة:
+{"student_id":4,"invoice_id":6591260437,"amount":17000.0,"total_amount":20000.0,"payment_date":"2025-04-12 09:45:43","session_id":5}
+بدء المعاملة
+أعمدة جدول invoices: id, payment_sources_id, student_id, amount, status, invoice_number, invoice_details, due_date, paid_at, created_at, updated_at, course_session_id
+أعمدة جدول payments: id, student_id, session_id, invoice_id, status, payment_date, total_amount, created_at, updated_at
+أعمدة جدول course_session_students: id, student_id, course_session_id, register_at, status, created_at, updated_at
+خطأ نهائي: الفاتورة غير موجودة أو لا تنتمي لهذا الطالب
+الرد النهائي: {"status":"error","message":"الفاتورة غير موجودة أو لا تنتمي لهذا الطالب","error_code":404,"timestamp":"2025-04-12 08:45:43"}
+
+2025-04-12 08:47:08 - بدء عملية جديدة
+البيانات الخام المستلمة:
+{
+    "student_id": 4,
+    "invoice_id": 1,
+    "amount": 100.50,
+    "payment_date": "2025-04-12 10:00:00"
+}
+بدء المعاملة
+أعمدة جدول invoices: id, payment_sources_id, student_id, amount, status, invoice_number, invoice_details, due_date, paid_at, created_at, updated_at, course_session_id
+أعمدة جدول payments: id, student_id, session_id, invoice_id, status, payment_date, total_amount, created_at, updated_at
+أعمدة جدول course_session_students: id, student_id, course_session_id, register_at, status, created_at, updated_at
+تم تحديث الفاتورة
+خطأ في المعاملة: خطأ في قاعدة البيانات: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'amount' in 'field list'
+خطأ نهائي: خطأ في قاعدة البيانات: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'amount' in 'field list'
+الرد النهائي: {"status":"error","message":"خطأ في قاعدة البيانات: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'amount' in 'field list'","error_code":500,"timestamp":"2025-04-12 08:47:08"}
+
+2025-04-12 08:52:12 - بدء عملية جديدة
+البيانات الخام المستلمة:
+{"student_id":4,"invoice_id":6591260437,"amount":17000.0,"total_amount":20000.0,"payment_date":"2025-04-12 09:52:12","session_id":5}
+بدء المعاملة
+أعمدة جدول invoices: id, payment_sources_id, student_id, amount, status, invoice_number, invoice_details, due_date, paid_at, created_at, updated_at, course_session_id
+أعمدة جدول payments: id, student_id, session_id, invoice_id, status, payment_date, total_amount, created_at, updated_at
+أعمدة جدول course_session_students: id, student_id, course_session_id, register_at, status, created_at, updated_at
+خطأ نهائي: الفاتورة غير موجودة أو لا تنتمي لهذا الطالب
+الرد النهائي: {"status":"error","message":"الفاتورة غير موجودة أو لا تنتمي لهذا الطالب","error_code":404,"timestamp":"2025-04-12 08:52:12"}
+
+2025-04-12 09:51:40 - بدء عملية جديدة
+خطأ نهائي: يجب استخدام طريقة POST
+الرد النهائي: {"status":"error","message":"يجب استخدام طريقة POST","error_code":405,"timestamp":"2025-04-12 09:51:40"}
+
+2025-04-12 10:05:35 - بدء عملية جديدة
+خطأ نهائي: يجب استخدام طريقة POST
+الرد النهائي: {"status":"error","message":"يجب استخدام طريقة POST","error_code":405,"timestamp":"2025-04-12 10:05:35"}
+
+2025-04-12 10:41:48 - بدء عملية جديدة
+خطأ نهائي: يجب استخدام طريقة POST
+الرد النهائي: {"status":"error","message":"يجب استخدام طريقة POST","error_code":405,"timestamp":"2025-04-12 10:41:48"}
+
+2025-04-12 10:42:00 - بدء عملية جديدة
+البيانات الخام المستلمة:
+
+خطأ نهائي: بيانات JSON غير صالحة: Syntax error
+الرد النهائي: {"status":"error","message":"بيانات JSON غير صالحة: Syntax error","error_code":400,"timestamp":"2025-04-12 10:42:00"}
+
+2025-04-12 10:42:25 - بدء عملية جديدة
+البيانات الخام المستلمة:
+
+خطأ نهائي: بيانات JSON غير صالحة: Syntax error
+الرد النهائي: {"status":"error","message":"بيانات JSON غير صالحة: Syntax error","error_code":400,"timestamp":"2025-04-12 10:42:25"}
+
+2025-04-12 10:43:44 - بدء عملية جديدة
+البيانات الخام المستلمة:
+
+خطأ نهائي: بيانات JSON غير صالحة: Syntax error
+الرد النهائي: {"status":"error","message":"بيانات JSON غير صالحة: Syntax error","error_code":400,"timestamp":"2025-04-12 10:43:44"}
+
+2025-04-12 11:23:07 - بدء عملية جديدة
+البيانات الخام المستلمة:
+
+خطأ نهائي: بيانات JSON غير صالحة: Syntax error
+الرد النهائي: {"status":"error","message":"بيانات JSON غير صالحة: Syntax error","error_code":400,"timestamp":"2025-04-12 11:23:07"}
+
+2025-04-12 11:23:11 - بدء عملية جديدة
+البيانات الخام المستلمة:
+
+خطأ نهائي: بيانات JSON غير صالحة: Syntax error
+الرد النهائي: {"status":"error","message":"بيانات JSON غير صالحة: Syntax error","error_code":400,"timestamp":"2025-04-12 11:23:11"}
+
+2025-04-12 11:34:08 - بدء عملية جديدة
+البيانات الخام المستلمة:
+{"student_id":4,"invoice_id":6591260437,"amount":17000.0,"total_amount":20000.0,"payment_date":"2025-04-12 12:34:07","session_id":5}
+بدء المعاملة
+أعمدة جدول invoices: id, payment_sources_id, student_id, amount, status, invoice_number, invoice_details, due_date, paid_at, created_at, updated_at, course_session_id
+أعمدة جدول payments: id, student_id, session_id, invoice_id, status, payment_date, total_amount, created_at, updated_at
+أعمدة جدول course_session_students: id, student_id, course_session_id, register_at, status, created_at, updated_at
+خطأ نهائي: الفاتورة غير موجودة أو لا تنتمي لهذا الطالب
+الرد النهائي: {"status":"error","message":"الفاتورة غير موجودة أو لا تنتمي لهذا الطالب","error_code":404,"timestamp":"2025-04-12 11:34:08"}
+
+2025-04-12 23:06:58 - بدء عملية جديدة
+البيانات الخام المستلمة:
+{"invoice_id":3,"student_id":4,"amount":4434.0,"payment_date":"2025-04-13 00:06:57","session_id":null}
+بدء المعاملة
+أعمدة جدول invoices: id, payment_sources_id, student_id, amount, status, invoice_number, invoice_details, due_date, paid_at, created_at, updated_at
+أعمدة جدول payments: id, student_id, session_id, invoice_id, status, payment_date, amount, created_at, updated_at
+أعمدة جدول course_session_students: id, student_id, course_session_id, register_at, status, created_at, updated_at
+تم تحديث الفاتورة
+خطأ في المعاملة: خطأ في قاعدة البيانات: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'total_amount' in 'field list'
+خطأ نهائي: خطأ في قاعدة البيانات: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'total_amount' in 'field list'
+الرد النهائي: {"status":"error","message":"خطأ في قاعدة البيانات: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'total_amount' in 'field list'","error_code":500,"timestamp":"2025-04-12 23:06:58"}
