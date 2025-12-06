@@ -38,7 +38,7 @@
 
    
    # التقنيات المستخدمة
-     Flutter,Dart,Json and Api
+     Flutter,Dart,Json and REST Api
      
 
      
